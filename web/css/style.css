@@ -1,0 +1,42 @@
+/* 
+    Document   : style
+    Created on : FEb 24, 2014, 3:59:05 PM
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body {
+    background: url("../images/bg.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-weight: 300;
+    height: 500px;
+    text-align: left;
+    text-decoration: none;
+}
+
+.fontfamily {
+    font-family: verdana,serif;
+    overflow-y: auto;  
+    max-height: 22px;
+}
+
+
+.rowEven{
+    background-color: white;
+}
+
+.rowOdd{
+    background-color: whitesmoke;
+}
+
+div.bottom {
+    background: #1e5799; /* Old browsers */
+}
+.footer {
+    top:auto;
+    right:auto;
+    bottom:2px;
+    left:auto;
+    position:fixed;
+}
+

@@ -1,0 +1,20 @@
+body {
+    background: url("../images/bg.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-weight: 300;
+    height: 500px;
+    text-align: left;
+    text-decoration: none;
+}
+
+h1 {
+	margin: 1em 0 0.5em 0;
+	color: #343434;
+	font-weight: normal;
+	font-family: 'Ultra', sans-serif;   
+	font-size: 36px;
+	line-height: 42px;
+	text-transform: uppercase;
+	text-shadow: 0 2px white, 0 3px #777;
+	text-align: center;
+}
